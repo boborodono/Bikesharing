@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+/Resources
+~Bikesharing__17356.twbr
+201908-citibike-tripdata.csv
+Bikesharing.twb
+noShow.twb
 
 # C extensions
 *.so
