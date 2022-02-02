@@ -1,5 +1,7 @@
 # NYC Citibike Analysis
 
+## Tableau Public Link: [Link to dashboard](https://public.tableau.com/app/profile/bowen.wilder/viz/NYCCitibikeChallenge-BowenWilder/CheckoutTimesAnalysis)
+
 ## Overview
 The reason for this project is to help Kate convince potential angel investors (using analysis created in Tableau) to consider starting a bicycle ride-sharing program in Des Moines, Iowa.
 
